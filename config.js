@@ -26,9 +26,9 @@ const PORTFOLIO_ITEMS = [
     size: "tall", // "normal" | "wide" | "tall" — règle la taille dans la grille
   },
   {
-    file: "thumbnail-02.jpg",
-    title: "Comment j'ai géré 10 000 € / mois",
-    category: "business",
+    file: "PSDPRESTIGE2ONCL3PICKV3.png",
+    title: "J'ai prestige 3 tous les brawlers",
+    category: "gaming",
     size: "wide",
   },
   {
