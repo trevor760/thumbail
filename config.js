@@ -38,13 +38,13 @@ const PORTFOLIO_ITEMS = [
     size: "normal",
   },
   {
-    file: "btaflunch_v6.png",
+    file: "btaflunchv6.png",
     title: "Batflunch",
     category: "prank",
     size: "normal",
   },
   {
-    file: "oncle_oik_bs_finland_2.png",
+    file: "oncleoikbsfinland2.png",
     title: "vlog",
     category: "lifestyle",
     size: "normal",
