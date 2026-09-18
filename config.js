@@ -55,12 +55,12 @@ const PORTFOLIO_ITEMS = [
 const BEFORE_AFTER_ITEMS = [
   {
     before: "PSDPRESTIGE.png",
-    after: "PSDPRESTIGEONCLPICKV",
+    after: "PSDPRESTIGEONCLPICKV.png",
     label: "Gaming",
   },
   {
-    before: "oncle.jpg",
-    after: "oncle2.jpg",
+    before: "oncle.png",
+    after: "oncle2.png",
     label: "gaming",
   },
 ];
