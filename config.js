@@ -26,7 +26,7 @@ const PORTFOLIO_ITEMS = [
     size: "tall", // "normal" | "wide" | "tall" — règle la taille dans la grille
   },
   {
-    file: "PSDPRESTIGE2ONCL3PICKV3.png",
+    file: "PSDPRESTIGEONCLPICKV.png",
     title: "J'ai prestige 3 tous les brawlers",
     category: "gaming",
     size: "wide",
@@ -44,7 +44,7 @@ const PORTFOLIO_ITEMS = [
     size: "normal",
   },
   {
-    file: "oncleoikbsfinland2.png",
+    file: "oncleoikbsfinland.png",
     title: "vlog",
     category: "lifestyle",
     size: "normal",
