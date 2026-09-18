@@ -44,12 +44,6 @@ const PORTFOLIO_ITEMS = [
     size: "normal",
   },
   {
-    file: "oncleoickbsfinland.png",
-    title: "vlog",
-    category: "lifestyle",
-    size: "normal",
-  },
-  {
     file: "macatia.png",
     title: "macatia",
     category: "food",
