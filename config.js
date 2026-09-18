@@ -69,21 +69,21 @@ const BEFORE_AFTER_ITEMS = [
 const TESTIMONIALS = [
   {
     quote:
-      "Le taux de clic de mes vidéos a nettement augmenté depuis que je travaille avec cette équipe. Le rendu est toujours au niveau des plus grosses chaînes.",
-    name: "Nom Prénom",
-    channel: "Nom de la chaîne — Gaming",
+      "Rendu porpre et Pro.",
+    name: "You",
+    channel: "Youdelacad",
   },
   {
     quote:
-      "Livraison rapide, échanges simples, et des miniatures qui correspondent vraiment à l'identité de ma chaîne. Exactement ce qu'il me fallait.",
-    name: "Nom Prénom",
-    channel: "Nom de la chaîne — Business",
+      "Rapide et efficace.",
+    name: "Batflunch",
+    channel: "Batflunch",
   },
   {
     quote:
-      "J'ai testé plusieurs designers avant de tomber sur cette agence. La différence sur les performances de mes vidéos est claire.",
-    name: "Nom Prénom",
-    channel: "Nom de la chaîne — Storytelling",
+      "A l'écoute et rapide",
+    name: "Oncle Pick",
+    channel: "Oncle Pick",
   },
 ];
 
