@@ -22,32 +22,32 @@ const PORTFOLIO_ITEMS = [
   {
     file: "yomiplage.png",
     title: "yomi denzel",
-    category: "lifestyle",
+    category: "buisness",
     size: "tall", // "normal" | "wide" | "tall" — règle la taille dans la grille
   },
   {
     file: "PSDPRESTIGEONCLPICKV.png",
     title: "J'ai prestige 3 tous les brawlers",
     category: "gaming",
-    size: "wide",
+    size: "tall",
   },
   {
     file: "youyou.png",
     title: "brawl stars",
     category: "Gaming",
-    size: "normal",
+    size: "tall",
   },
   {
     file: "btaflunchv6.png",
     title: "Batflunch",
-    category: "prank",
-    size: "normal",
+    category: "challenge",
+    size: "tall",
   },
   {
     file: "macatia.png",
     title: "macatia",
-    category: "food",
-    size: "wide",
+    category: "challenge",
+    size: "tall",
   },
 ];
 
