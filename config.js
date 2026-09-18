@@ -54,14 +54,14 @@ const PORTFOLIO_ITEMS = [
 // ---- 2. EXEMPLES AVANT / APRÈS ------------------------------
 const BEFORE_AFTER_ITEMS = [
   {
-    before: "before-1.jpg",
-    after: "after-1.jpg",
-    label: "Chaîne storytelling",
+    before: "PSDPRESTIGE.png",
+    after: "PSDPRESTIGEONCLPICKV",
+    label: "Gaming",
   },
   {
-    before: "before-2.jpg",
-    after: "after-2.jpg",
-    label: "Chaîne vlog / gaming",
+    before: "oncle.jpg",
+    after: "oncle2.jpg",
+    label: "gaming",
   },
 ];
 
