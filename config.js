@@ -20,9 +20,9 @@
 // "storytelling", "autres"
 const PORTFOLIO_ITEMS = [
   {
-    file: "thumbnail-01.jpg",
-    title: "J'ai survécu 100 jours",
-    category: "gaming",
+    file: "yomiplage.png",
+    title: "yomi denzel",
+    category: "lifestyle",
     size: "tall", // "normal" | "wide" | "tall" — règle la taille dans la grille
   },
   {
@@ -32,27 +32,27 @@ const PORTFOLIO_ITEMS = [
     size: "wide",
   },
   {
-    file: "thumbnail-03.jpg",
-    title: "Dernier à lâcher gagne 5 000 €",
-    category: "challenge",
+    file: "youyou.png",
+    title: "brawl stars",
+    category: "Gaming",
     size: "normal",
   },
   {
-    file: "thumbnail-04.jpg",
-    title: "Il a tout perdu en une nuit",
-    category: "storytelling",
+    file: "batflunch-v6.png",
+    title: "Batflunch",
+    category: "prank",
     size: "normal",
   },
   {
-    file: "thumbnail-05.jpg",
-    title: "Ce boss est impossible",
-    category: "gaming",
+    file: "oncle-oik-bs-filand-2.png",
+    title: "vlog",
+    category: "lifestyle",
     size: "normal",
   },
   {
-    file: "thumbnail-06.jpg",
-    title: "Ma routine du matin à 5h",
-    category: "autres",
+    file: "macatia.png",
+    title: "macatia",
+    category: "food",
     size: "wide",
   },
 ];
