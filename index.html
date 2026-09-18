@@ -348,9 +348,32 @@
         </div>
       </div>
 
-  <a href="https://discord.gg/kywAhAZds" target="_blank">
-    Rejoindre notre Discord
-  </a>
+      <form class="card form" id="contactForm" style="padding:34px;">
+        <div class="form-field">
+          <label for="name">Nom</label>
+          <input type="text" id="name" name="name" required placeholder="Votre nom" />
+        </div>
+        <div class="form-field">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required placeholder="vous@exemple.com" />
+        </div>
+        <div class="form-field">
+          <label for="channel">Chaîne YouTube</label>
+          <input type="text" id="channel" name="channel" placeholder="Lien ou nom de votre chaîne" />
+        </div>
+        <div class="form-field">
+          <label for="project">Type de projet</label>
+          <select id="project" name="project">
+            <option>Miniature unique</option>
+            <option>Pack de miniatures</option>
+            <option>Refonte de chaîne</option>
+            <option>Autre demande</option>
+          </select>
+        </div>
+        <div class="form-field form-field--full">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" required placeholder="Parlez-nous de votre projet..."></textarea>
+        </div>
         <div class="form-success" id="formSuccess">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
           Message prêt à être envoyé — connectez ce formulaire à votre service d'envoi préféré (voir README).
