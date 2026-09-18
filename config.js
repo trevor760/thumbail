@@ -59,8 +59,8 @@ const BEFORE_AFTER_ITEMS = [
     label: "Gaming",
   },
   {
-    before: "images/before-after/oncle.png",
-    after: "images/before-after/onclep.png",
+    before: "oncle.png",
+    after: "onclep.png",
     label: "gaming",
   },
 ];
